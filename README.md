@@ -14,5 +14,5 @@ Projeto de finanças da Maratona Discover da <a href='https://github.com/rockets
   <li>JavaScript</li>
   <li>HTML</li>
   <li>CSS</li>
-  <li>LocalStorage - to storage the transaction data</li>
+  <li>LocalStorage</li>
 </ul>

@@ -9,10 +9,10 @@ const Modal = {
 
 const Utils = {
 	formatAmount(value) {
-		// Replace all ',' and '.' to nothing
-		value = Number(value.replace(/\,\./g, '')) * 100
+		
+		value = value * 100
 
-		return value
+		return Math.round(value)
 	},
 
 	formatDate(value) {
